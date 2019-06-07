@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740344320845",
+    "firebase_url": "https://angry-duck-38ba0.firebaseio.com",
+    "project_id": "angry-duck-38ba0",
+    "storage_bucket": "angry-duck-38ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740344320845:android:203497398bc446ee",
+        "android_client_info": {
+          "package_name": "com.example.automl_firebase_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740344320845-avnqv6clfi39dfu1ke439gmutk5dcall.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.automl_firebase_android",
+            "certificate_hash": "15294c5cc2f57fabcc578b344680e532161abcc2"
+          }
+        },
+        {
+          "client_id": "740344320845-d5j6ko232koei62vj9v7inih56ngv3qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeHEFcWjjOGHAq7eiIGNvuif5lsScaViU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740344320845-d5j6ko232koei62vj9v7inih56ngv3qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
